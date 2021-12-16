@@ -1,4 +1,5 @@
-# ATOMIC-SPEAKER---ATOM-SPK-M5-ATOM-Doorbell-
+# ATOMIC-SPEAKER-ATOM-SPK-M5-DoorBell
+
 
 A short and hopefully sweet script designed to create a replayable mp3 door bell sample.
 
